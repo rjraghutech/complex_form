@@ -1,0 +1,11 @@
+form{
+    margin-right: 900px;
+}
+
+input[type=submit]{
+    color: rgb(70, 69, 69);
+    font-weight: bold;
+    width: 100%;
+    padding: 10px;
+    background-color: orange;
+}
